@@ -1,0 +1,36 @@
+#省略前面为0
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.0
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.175
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 0.0] 角色Yaw差值 -0.175
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.35
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 0.175] 角色Yaw差值 -0.35
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.525
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 0.525] 角色Yaw差值 -0.525
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.525
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 1.05] 角色Yaw差值 -0.525
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.525
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 1.575] 角色Yaw差值 -0.525
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.7
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 2.1] 角色Yaw差值 -0.7
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.7
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 2.8] 角色Yaw差值 -0.7
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.7
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 3.5] 角色Yaw差值 -0.7
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.875
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 4.2] 角色Yaw差值 -0.875
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:0.875
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 5.075] 角色Yaw差值 -0.875
+
+LogBlueprintUserMessages: 角色两帧间Yaw 差:1.05
+LogBlueprintUserMessages: 动画处:  根骨Yaw偏转[ 5.95] 角色Yaw差值 -1.05
+.......
+得出什么结论？ 根骨Yaw偏转 其实在累减角色两帧间的旋转差值
